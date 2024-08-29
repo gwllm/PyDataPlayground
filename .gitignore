@@ -1,0 +1,14 @@
+# Ignore PNG files
+*.png
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore macOS .DS_Store files
+.DS_Store
