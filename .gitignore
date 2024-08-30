@@ -5,7 +5,7 @@
 *.pyc
 
 # Ignore virtual environment directory
-venv/
+vdata/
 
 # Ignore Python cache directories
 __pycache__/
